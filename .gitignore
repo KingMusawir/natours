@@ -1,0 +1,5 @@
+.parcel-cache
+public/js/bundled
+*.env
+node_modules/
+node_modules
